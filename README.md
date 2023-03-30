@@ -32,7 +32,7 @@ The data used consisted of around 0.5m (train) and 30k (validation) reconstructe
 While initially I tried a standard graph convolution network with CGNConv of pytorch geometric, which uses a Laplacian formed from the Adjacency matrix, this arhiecture had sub-optimal results. Therefore, I tried an attention-based graph convolutional network using GATConv. This allows for learnable attention weights between the various nodes. 
 
 <p float="left">
-  <img src="images/GAT.png" width="600" />
+  <img src="images/GAT.png" width="300" />
 </p>
 
 The implementation of the graph convolutional attention network is shown below:
