@@ -10,7 +10,7 @@ In this project I attempt to replace the B meson BDTs, of which there are 60, wi
 
 ## Tag-side reconstruction
 
-At Belle II we study $e^{+} e^{-}$ collisions. The collisions take place at the exact energy required to produce an $\Upsilon(4S)$ particle containing a $b$ quark and a anti-$b$ quark. This particle subsequently decays into two $B$ mesons. The role of the tag-side reconstruction algorithm is to reconstruct one of the $B$ mesons, allowing the second $B$ meson to be studied in greater detail. This is illustrated in the figure below. 
+At Belle II we study $e^{+} e^{-}$ collisions. The collisions take place at the exact energy required to produce an $\Upsilon(4S)$ particle containing a $b$ quark and a $\bar{b}$ quark. This particle subsequently decays into two $B$ mesons. The role of the tag-side reconstruction algorithm is to reconstruct one of the $B$ mesons, allowing the second $B$ meson to be studied in greater detail. This is illustrated in the figure below. 
 
 <p float="left">
   <img src="images/tagging.png" width="600" />
